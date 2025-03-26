@@ -1,4 +1,4 @@
-# UML et modèles Java (CIUP)
+# CIUP - Application Java de gestion des maisons
 
 Projet réalisé dans le cadre du **BUT Informatique – Semestre 2**.  
 Objectif : concevoir et développer le **modèle applicatif** d’une application de gestion de la **Cité Internationale Universitaire de Paris (CIUP)** en utilisant **UML** et la programmation **Java orientée objet**.
